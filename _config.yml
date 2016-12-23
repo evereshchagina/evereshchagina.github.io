@@ -22,6 +22,11 @@ twitter:          'https://twitter.com/evereshchagina'
 linkedin:         'https://www.linkedin.com/in/evereshchagina'
 researchgate:     'https://www.researchgate.net/profile/Elizaveta_Vereshchagina'
 
+# Google Maps API
+maps:
+    google:
+      api_key:    AIzaSyCVrIEhIXdAHyZEJq3irCA5U98GhrCEZDs
+
 # Author
 author:
   name:           'Mark Otto'
