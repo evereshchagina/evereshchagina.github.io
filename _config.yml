@@ -20,7 +20,7 @@ baseurl:          /
 facebook:         'https://www.facebook.com/elizaveta.vereshchagina'
 twitter:          'https://twitter.com/evereshchagina'
 linkedin:         'https://www.linkedin.com/in/evereshchagina'
-
+researchgate:     'https://www.researchgate.net/profile/Elizaveta_Vereshchagina'
 
 # Author
 author:
@@ -31,7 +31,7 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
-gems: [jekyll-paginate, jemoji]
+gems: [jekyll-paginate, jemoji, jekyll-maps]
 
 
 github:
