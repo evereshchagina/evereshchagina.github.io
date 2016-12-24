@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Places
+layout: places
+title: Places I visit
 ---
 
-{% google_map src="_posts/" width="100%" height="400" class="my-map" %}
+Have a look at the places I've recently visited
